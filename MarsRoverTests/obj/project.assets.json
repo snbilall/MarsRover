@@ -4606,11 +4606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRoverTests\\MarsRoverTests.csproj",
+      "projectUniqueName": "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRoverTests\\MarsRoverTests.csproj",
       "projectName": "MarsRoverTests",
-      "projectPath": "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRoverTests\\MarsRoverTests.csproj",
+      "projectPath": "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRoverTests\\MarsRoverTests.csproj",
       "packagesPath": "C:\\Users\\u05307\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRoverTests\\obj\\",
+      "outputPath": "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRoverTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4631,8 +4631,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRover\\MarsRover.csproj": {
-              "projectPath": "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRover\\MarsRover.csproj"
+            "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRover\\MarsRover.csproj": {
+              "projectPath": "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRover\\MarsRover.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRover\\MarsRover.csproj": {}
+    "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRover\\MarsRover.csproj": {}
   },
   "projects": {
-    "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRover\\MarsRover.csproj": {
+    "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRover\\MarsRover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRover\\MarsRover.csproj",
+        "projectUniqueName": "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRover\\MarsRover.csproj",
         "projectName": "MarsRover",
-        "projectPath": "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRover\\MarsRover.csproj",
+        "projectPath": "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRover\\MarsRover.csproj",
         "packagesPath": "C:\\Users\\u05307\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\u05307\\source\\repos\\MarsRover\\MarsRover\\obj\\",
+        "outputPath": "C:\\Users\\u05307\\Desktop\\MarsRover\\MarsRover\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
